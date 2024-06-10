@@ -1,0 +1,17 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "p61s",
+
+    "owner": {
+        "repo": "https://github.com/Samhey-debug/regist",
+        "email": "heyitssamhey@outlook.com"
+    },
+
+    "record": {
+        "CNAME": "samhey-debug.github.io"
+           },
+
+    "proxied": false
+}
